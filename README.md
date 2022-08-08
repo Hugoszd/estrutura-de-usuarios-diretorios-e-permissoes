@@ -5,14 +5,6 @@ Neste projeto iremos criar um script onde toda a infraestrutura de usuários, gr
 
 **Linux****Git**
 
-------
-
-###### Full-Stack
-
-###### Intermediário
-
-------
-
 ###### ESPECIALISTA
 
 ![author](https://hermes.digitalinnovation.one/users/author/photos/06d27a77-5a11-48fb-9c16-e0c692091bd9.png)
