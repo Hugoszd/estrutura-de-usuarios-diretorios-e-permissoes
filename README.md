@@ -9,7 +9,7 @@ Neste projeto iremos criar um script onde toda a infraestrutura de usuários, gr
 
 ###### Denilson Bonatti
 
-Instrutor, Digital Innovation One[**](https://www.linkedin.com/in/denilson-bonatti-54a14529/) [**](https://github.com/denilsonbonatti)
+Instrutor, Digital Innovation One[*Linkedin*](https://www.linkedin.com/in/denilson-bonatti-54a14529/) [*Github*](https://github.com/denilsonbonatti)
 
 
 
