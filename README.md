@@ -7,8 +7,6 @@ Neste projeto iremos criar um script onde toda a infraestrutura de usuários, gr
 
 ###### ESPECIALISTA
 
-![author](https://hermes.digitalinnovation.one/users/author/photos/06d27a77-5a11-48fb-9c16-e0c692091bd9.png)
-
 ###### Denilson Bonatti
 
 Instrutor, Digital Innovation One[**](https://www.linkedin.com/in/denilson-bonatti-54a14529/) [**](https://github.com/denilsonbonatti)
