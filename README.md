@@ -9,8 +9,8 @@ Neste projeto iremos criar um script onde toda a infraestrutura de usuários, gr
 
 ###### Denilson Bonatti
 
-Instrutor, Digital Innovation One[*Linkedin*](https://www.linkedin.com/in/denilson-bonatti-54a14529/) [*Github*](https://github.com/denilsonbonatti)
-
+Instrutor, Digital Innovation One
+[*Linkedin*](https://www.linkedin.com/in/denilson-bonatti-54a14529/) [*Github*](https://github.com/denilsonbonatti)
 
 
 https://web.dio.me/lab/infraestrutura-como-codigo-script-de-criacao-de-estrutura-de-usuarios-diretorios-e-permissoes/learning/0556959c-e20e-4e02-8b0e-5f950c022b18
